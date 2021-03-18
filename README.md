@@ -15,3 +15,9 @@ rabbitmq_container |  cookie hash    : xxxxxxxxx
 rabbitmq_container |  log(s)         : <stdout>
 rabbitmq_container |  database dir   : /var/lib/rabbitmq/mnesia/rabbit@myrabbitmq-hostname
 ```
+
+# Links
+
+ - https://zgadzaj.com/development/docker/docker-compose/containers/rabbitmq
+ - https://x-team.com/blog/set-up-rabbitmq-with-docker-compose/
+ - https://stackoverflow.com/questions/41330514/docker-rabbitmq-persistency
