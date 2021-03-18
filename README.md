@@ -1,6 +1,6 @@
 # rabbitmq-docker
 
- - `docker-compose up`
+ - `docker-compose up` / `docker-compose down`
  - See at http://localhost:15672 (admin/admin)
 
 In the log stuff like this :
